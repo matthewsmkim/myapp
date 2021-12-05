@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="etclib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/etclib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/etclib" recursive="false" />
+  </library>
+</component>

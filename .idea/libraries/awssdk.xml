@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="awssdk">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/awssdk" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/libs/awssdk" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/libs/awssdk" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/awssdk" recursive="false" type="SOURCES" />
+  </library>
+</component>
