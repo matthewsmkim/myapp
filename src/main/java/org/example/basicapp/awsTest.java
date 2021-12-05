@@ -67,11 +67,58 @@ public class awsTest {
                 case 1:
                     listInstances();
                     break;
+                case 2:
+                    availableZones();
+                    break;
+                case 3:
+                    startInstance();
+                    break;
+                case 4:
+                    availableRegions();
+                    break;
+                case 5:
+                    stopInstance();
+                    break;
+                case 6:
+                    createInstance();
+                    break;
+                case 7:
+                    rebootInstance();
+                    break;
+                case 8:
+                    listImages();
+                    break;
+                case 99:
+                    break;
 //<생략>
             }
 
 
         }
+    }
+
+    private static void listImages(){
+
+    }
+
+    private static void rebootInstance(){
+
+    }
+
+    private static void createInstance(){
+
+    }
+
+    private static void stopInstance() {
+    }
+
+    private static void availableRegions() {
+    }
+
+    private static void startInstance() {
+    }
+
+    private static void availableZones() {
     }
 
     private static void listInstances() {
